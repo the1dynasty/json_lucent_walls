@@ -24,7 +24,7 @@
 	{
 		"name": "Stars & Dust",
 		"author": "the1dynasty",
-		"url": "https://i.imgur.com/cvkeKsE.jpg",
+		"url": "https://i.imgur.com/EKlOLtR.jpg",
 		"thumbnail": "https://i.imgur.com/QvYbTVI.jpg",
 		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
@@ -40,6 +40,28 @@
 		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
 		"size": 597037,
+		"dimensions": "2048 x 2048 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Triangles",
+		"author": "the1dynasty",
+		"url": "https://i.imgur.com/IHWoxGP.png",
+		"thumbnail": "https://i.imgur.com/9jfCaPw.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 1128159,
+		"dimensions": "3277 x 2048 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Dusty Stars",
+		"author": "the1dynasty",
+		"url": "https://i.imgur.com/8AK9h8D.png",
+		"thumbnail": "https://i.imgur.com/84gc7hq.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 1621979,
 		"dimensions": "2048 x 2048 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
